@@ -3,7 +3,7 @@
 # Requirements
 
  1. Python 3 or above
- 2. You can install oython from [here](https://www.python.org/downloads/)
+ 2. You can install python from [here](https://www.python.org/downloads/)
  3. After downloading install python on you system
  4. Download or clone this git repository
 
